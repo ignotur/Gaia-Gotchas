@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Collection of issues which you experience working with Gaia data
 
 You can use the [editor on GitHub](https://github.com/ignotur/GaiaGotchas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
