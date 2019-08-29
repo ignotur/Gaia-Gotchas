@@ -32,4 +32,11 @@ for i in range (0, len(r)):
 ```
 
 
+### UWE-cut vs. RUWE
 
+Without applying filtering-cuts one will get spurious objects. 
+E.g. objects with nominal parallaxes, which are even larger than the parallax of Proxima. 
+
+
+![Image](sky_gaia_all.png) ![Image](HR_A.jpeg)
+![Image](sky_gaia_RUWE_C2.png) ![Image](HR_C1_C2_phot.jpeg)
