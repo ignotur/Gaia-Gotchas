@@ -1,6 +1,6 @@
 ## Collection of issues which you experience working with Gaia data
 
-
+![badge-img](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)
 
 ### Requesting a region using Python
 
